@@ -1,0 +1,127 @@
+main{
+    width: 100%;
+}
+
+.main_header{
+    height: 967px;
+    width: 1648px;
+    margin: 0 auto;
+}
+.main-header-nav{
+    height: 80px;
+    margin-bottom: 148px;
+}
+.main-header-nav_logo{
+    width: 157px;
+    height: 53px;
+    display: inline-block;
+    margin-right: 310px;
+    vertical-align: middle;
+}
+.main-header-nav_logo__img{
+    width: 37px;
+    margin-right: 14px;
+    height: 45px;
+}
+.main-header-nav_menu{
+    display: inline-block;
+}
+.nav_menu-locus_tab{
+    display: inline;
+    margin-right: 86px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+    color: #404242;
+}
+.nav_menu-locus_tab:last-child{
+    margin-right: 190px;
+}
+.main-header-nav__button{
+    width: 271px;
+    height: 80px;
+    background: #58A9A5;
+    border-radius: 15px;
+    border: #58A9A5;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+
+}
+.main-header-nav_logo__name{
+    padding-bottom: 8px;
+}
+
+.nav_menu-locus_tab:hover{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    color: #58A9A5;
+
+}
+
+
+
+.main-header_banner{
+    width: 1648px;
+    height: 785px;
+    margin: 0 auto;
+}
+.main-header_banner-left{
+    display: inline-block;
+    margin-right: 68px;
+}
+.main-header_banner-right{
+    display: inline-block;
+
+}
+.main-header_banner-right__back{
+    background-image: url(../img/Rectangle\ 9.svg);
+    height: 782px;
+    width: 833px;
+}
+.main-header_banner-left__title{
+    width: 674px;
+    height: 315px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 105px;
+    color: #1C2323;
+    margin: 0 0 50px 0;
+}
+.main-header_banner-left__subtitle{
+    width: 743px;
+    height: 180px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    margin: 0 0 50px 0;
+    color: #404242;
+}
+.main-header_banner-right_image{
+    margin: 42px auto 15px auto;
+}
+.main-header_banner-left__button{
+    background: #58A9A5;
+    border: #58A9A5;
+    border-radius: 20px 20px 20px 0px;
+    width: 271px;
+    height: 80px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
