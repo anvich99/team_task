@@ -5,7 +5,7 @@ main{
 .main_header{
     height: 967px;
     width: 1648px;
-    margin: 0 auto;
+    margin: 0 auto 150px auto;
 }
 .main-header-nav{
     height: 80px;
