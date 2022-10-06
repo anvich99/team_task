@@ -119,3 +119,47 @@ color: #486958;
 {
     
 }
+.brend
+{
+
+}
+.brend-testimonial
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.brend-klam
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-mayfit
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-zalora
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-gelius
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.done-image
+{
+    display: inline-block;
+    width: 30%;
+}
+.done-do
+{
+    display: inline-block;
+    width: 69;
+}
