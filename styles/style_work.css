@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@600&family=Open+Sans:wght@700&family=Poppins:wght@400;500;700&family=Raleway&family=Roboto&display=swap');
+
+.works{
+   width: 100%;
+}
+.container {
+   width: 1612px;
+   margin: 0 auto;
+}
+
+.work-title {
+   width: 460px;
+   height: 105px;
+   font-family: 'Poppins';
+   font-weight: 800;
+   font-size: 70px;
+   line-height: 105px;
+   text-align: center;
+   color: #1C2323;
+   margin: 120px 0 0 70px;
+}
+
+.work-subtitle {
+   width: 506px;
+   height: 90px;
+   font-family: 'Poppins';
+   font-weight: 400;
+   font-size: 30px;
+   line-height: 45px;
+   text-align: center;
+   color: #404242;
+   margin: 0 auto;
+
+}
+.work-advantage {
+   width: 1612px;
+   height: 350px;
+   margin: 0 0 146px 0;
+}
+.work-advantage-left {
+   display: inline-block;
+   width: 1063px;
+   height: 350px;
+   float: left;
+}
+
+.work-advantage-right {
+   display: inline-block;
+   width: 545px;
+   height: 350px;
+   background-color: #AFEEEE;
+   vertical-align: top;   
+}
+.work-advantage-right__text {
+   width: 328px;
+   height: 120px;
+   font-family: 'Poppins';
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 30px;
+   color: #486958;
+}
+.work-advantage-right__title {
+width: 130px;
+height: 30px;
+font-family: 'Poppins';
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+color: #486958;
+}
+
+.mission {
+   width: 1492pxpx;
+   height: 650px;
+}
+.mission-left {
+   width: 642px;
+   height: 650px;
+   display: inline-block;
+   margin: 0 145px 0 0;
+}
+
+
+.mission__right {
+   width: 708px;
+   height: 465px;
+   display: inline-block;
+}
+
+.mission-right__title {
+   width: 487px;
+   height: 180px;
+   font-family: 'Poppins';
+   font-weight: 700;
+   font-size: 40px;
+   line-height: 60px;
+   color: #1C2323;
+   margin: 0 0 54 0px;
+}
+
+.mission-right__text {
+   width: 708px;
+   height: 225px;
+   left: 950px;
+   top: 2188px;
+   font-family: 'Poppins';
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 45px;
+   color: #486958;
+}
