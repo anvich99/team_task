@@ -1,0 +1,165 @@
+.project
+{
+    width: 100%;
+    background: #E5E5E5;
+}
+.project-up
+{
+margin: 0 auto;
+}
+.up__title
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 70px;
+line-height: 105px;
+text-align: center;
+color: #1C2323;
+}
+.up__text
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #404242;
+}
+.up__lineone
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.up__linetwo
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.project-left
+{
+    display: inline-block;
+    width:33%;
+}
+.project-left__title
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: #58A9A5;
+}
+.project-left__text
+{
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #486958;
+}
+.left__image
+{
+    
+}
+.project-center
+{
+    display: inline-block;
+    width:33%;
+}
+.project-center__title
+{
+font-family: 'Poppins';
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color:rgba(88, 169, 165, 1);
+}
+.project-center__text
+{
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #486958;
+}
+.left__image
+{
+    
+}
+.project-right
+{
+    display: inline-block;
+    width:33%;
+}
+.project-right__title
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+color: #58A9A5;
+}
+.project-right__text
+{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #486958;
+}
+.left__image
+{
+    
+}
+.brend
+{
+
+}
+.brend-testimonial
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.brend-klam
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-mayfit
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-zalora
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.brend-gelius
+{
+display: inline-block;
+width:23%;
+align-items: center;
+}
+.done-image
+{
+    display: inline-block;
+    width: 30%;
+}
+.done-do
+{
+    display: inline-block;
+    width: 69;
+}
